@@ -8,5 +8,8 @@ The code is written in moments terribly, I know
 I also took some fragments from such people:
 - https://github.com/Zer0Mem0ry
 - https://github.com/danielkrupinski
+
 >And also thanks to danielkrupinski for the fact that 
 >I started to learn C ++ because of his brilliant projects
+
+And more https://yougame.biz/threads/242254/#post-2513465
